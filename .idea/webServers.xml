@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e985a1cd-be5a-41d5-b004-9c5cdc37ede9" name="muslim" url="http://muslim.solusiinovasimandiri.com">
+        <fileTransfer host="muslim.solusiinovasimandiri.com" port="21">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="27c273b3-b4df-4ac0-b7df-7cfdf605f197" name="kasir" url="http://kasir.ruangprogrammer.com">
+        <fileTransfer host="kasir.ruangprogrammer.com" port="21" rootFolder="/kasir.ruangprogrammer.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" showHiddenFiles="true" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
